@@ -1,0 +1,4 @@
+npm i create-react-app //module install 
+npx create-react-app react-app
+npm start
+virtual DOM//dont need for refresh all times
